@@ -1,2 +1,1 @@
-# KimozignDMbot
-eeee
+﻿김오징입니다.
